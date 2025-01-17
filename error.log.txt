@@ -1,0 +1,443 @@
+Question 1
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Jika pada subclass kita menulis ulang method yang ada pada super classnya, maka method yang ada di subclass tersebut disebut :
+Select one:
+a. Tidak ada jawaban yang benar
+b. mewarisi method super classnya
+c. meng-override method super classnya
+d. meng-overload method super classnya
+e. meng-interface method super classnya
+Question 2
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Sifat yang dimiliki oleh setiap atribut, method maupun kelas dalam java disebut :
+Select one:
+a. Modifier
+b. Object
+c. Atribut
+d. Method
+e. Class
+Question 3
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Jika dalam sebuah array terdapat indeks yang lebih dari batas, maka eksepsinya termasuk dalam :
+Select one:
+a. ClassCastException
+b. IllegalMonitorStateException
+c. IndexOutOfBoundsException
+d. NullPointerException
+e. ArrayStoreException
+Question 4
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+BufferedReader adalah perintah di java yang berfungsi untuk :
+Select one:
+a. KOneksi antar file pada java
+b. Membaca teks file .txt
+c. Membaca file pada java
+d. Proses input output data tanpa menggunakan fasilitas Swing
+e. Stream file pada java
+Question 5
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+get namaInstanceVariabel merupakan penulisan syntax dari method :
+Select one:
+a. Semua benar
+b. Procedure
+c. Accessor
+d. Mutator
+e. FunctionQuestion 6
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Jika dalam sebuah array tidak terdapat isi dalam pointer yang ditunjuk, maka eksepsinya termasuk dalam :
+Select one:
+a. NullPointerException
+b. ClassCastException
+c. IllegalMonitorStateException
+d. IndexOutOfBoundsException
+e. ArrayStoreException
+Question 7
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Berikut ini adalah aturan yang harus kita ingat tentang pendeklarasian interface, kecuali:
+Select one:
+a. Semua variabel yang dideklarasikan dalam interface secara otomatis adalah static final.
+b. Modifier yang digunakan hanya public atau tidak sama sekali.
+c. Semua method yang diimplemetasikan harus private.
+d. Semua method adalah abstrak.
+e. Kita dapat mengimplementasikan lebih dari satu interface (multiple inheritance)
+Question 8
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Di bawah ini yang termasuk kata kunci penanganan eksepsi, kecuali :
+Select one:
+a. Catch
+b. Try
+c. Then
+d. Throws
+e. Finally
+Question 9
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Secara umum, eksepsi yang dilempar oleh java bernama :
+Select one:
+a. SecurityException
+b. EOFException
+c. Exception
+d. ArithmeticException
+e. IOException
+Question 10
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+public StudentRecord() merupakan contoh pendeklarasian :
+Select one:
+a. Default Object
+b. Default Modifier
+c. Default Constructor
+d. Default Class
+e. Default MethodQuestion 11
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Overloading ini terjadi pada objek yang berbeda-beda :
+Select one:
+a. Overloading Class
+b. Overloading Object
+c. Overloading Method
+d. Overloading Constructor
+e. Overloading Modifier
+Question 12
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+readLine pada java yaitu :
+Select one:
+a. perintah untuk membaca karakter per karakter pada java
+b. Benar semua
+c. garis merah yang akan muncul ketika program terdapat kesalahan
+d. perintah untuk membaca baris input pada java
+e. Salah Semua
+Question 13
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+class yang hanya mengandung deklarasi method tanpa memiliki implementasi dan semua property yang dimilikinya bersifat final disebut :
+Select one:
+a. Objek
+b. Polimorfisme
+c. Interfaces
+d. Encapsulation
+e. Inheritance
+Question 14
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Dibuat secara otomatis saat class dikompilasi adalah ciri :
+Select one:
+a. Default Modifier
+b. Default Class
+c. Default Method
+d. Default Constructor
+e. Default Object
+Question 15
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+set namaInstanceVariabel merupakan penulisan syntax dari method :
+Select one:
+a. Mutator
+b. Semua benar
+c. Procedure
+d. Accessor
+e. FunctionQuestion 16
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Keyword yang digunakan untuk menentukan tingkat spesifikasi akses suatu variable disebut:
+Select one:
+a. Accessor
+b. Procedure
+c. Access modifier
+d. Function
+e. Mutator
+Question 17
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Dalam java, yang merupakan wujud nyata atau instance dari sebuah kelas disebut dengan :
+Select one:
+a. Class
+b. Object
+c. Atribut
+d. Method
+e. Modifier
+Question 18
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Jika eksepsi pada try terjadi kesalahan, maka :
+Select one:
+a. Catch dijalankan
+b. Try dijalankan
+c. Benar semua
+d. Throws dijalankan
+e. Salah Semua
+Question 19
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Tipe data dari variabel arguments di Java adalah :
+Select one:
+a. Date
+b. Float
+c. Integer
+d. String
+e. Double
+Question 20
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Kesalahan program aritmatika termasuk dalam jenis eksepsi :
+Select one:
+a. EOFException
+b. Exception
+c. SecurityException
+d. IOException
+e. ArithmeticException
+Encapsulation adalah Penggabungan state dan method dalam suatu object.
+Select one:
+True
+False
+Question 2
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Overloading constructor terjadi pada objek yang sama.
+Select one:
+True
+False
+Question 3
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Interface mirip dengan class abstrak, tetapi interface tidak terikat dengan class hierarki.
+Select one:
+True
+False
+Question 4
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Kata kunci this digunakn didalam method untuk mewakili nama kelas yang bersangkutan.
+Select one:
+True
+False
+Question 5
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+public interfaces runnable. runnable kita sebut sebagai Super Class.
+Select one:
+True
+False
+
+Question 6
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Index array arguments pada java dimulai dari 0.
+Select one:
+True
+False
+Question 7
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Overloading method terjadi pada objek yang sama.
+Select one:
+True
+False
+Question 8
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Finally tidak akan dijalankan jika sudah ada try dan catch.
+Select one:
+True
+False
+Question 9
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Deklarasi atribut dibutuhkan untuk membentuk objek dan diletakkan didalam class body atau diluar method.
+Select one:
+True
+False
+Question 10
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Hewan merupakan contoh class.
+Select one:
+True
+FalseQuestion 11
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Information hiding: penyembunyian informasi tertentu supaya tidak bisa diakses secara langsung.
+Select one:
+True
+False
+Question 12
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Nama constructor sama dengan nama class.
+Select one:
+True
+False
+Question 13
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Catch akan dijalankan jika dalam eksepsi try terjadi kesalahan.
+Select one:
+True
+False
+Question 14
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+pada pembuatan class sederhana dengan method utama public static void main,tanpa kita sadari kita telah memiliki satu thread.
+Select one:
+True
+False
+Question 15
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Pada Threading kita akan menjumpai method() run .method() run kita gunakan untuk Mengeksekusi kelas parent.
+Select one:
+True
+False
+Question 16
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Ketika class dikompilasi, default constructor dibuat sendiri oleh programmer.
+Select one:
+True
+False
+Question 17
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Public merupakan access modifier yang dapat diakses dimanapun.
+Select one:
+True
+False
+Question 18
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Arguments pada java berupa array dengan tipe data String.
+Select one:
+True
+False
+Question 19
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Objek tidak dapat digunakan ulang merupakan keuntungan dari menggunakan pemrograman berorintasi objek.
+Select one:
+True
+False
+Question 20
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Procedure method memiliki nilai kembali.
+Select one:
+True
+FalseQuestion 1
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Cocokkan pertanyaan dan jawaban berikut.
+Perintah untuk melakukan proses input dan output yang diketikan di keyboard dan diakhiri dengan enter	Answer 1
+BufferedReader
+Mendapatkan banyaknya array pada arguments	Answer 2
+args.length
+Arguments pada java menggunakan variabel	Answer 3
+Args
+Untuk mengubah tipe data menjadi Float	Answer 4
+Float.parseFloat
+Berfungsi untuk membaca baris input dari user	Answer 5
+readLine
+Question 2
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Cocokkan pertanyaan dan jawaban berikut.
+Access modifier yang memiliki tingkatan akses yang sangat terbatas	Answer 1
+protected
+Access modifier yang hanya menspesifikasikan kelas-kelas di paket yang sama yang bisa mengakses variable dan method suatu kelas	Answer 2
+private
+Access modifier yang menentukan anggota kelas yang hanya bisa diakses oleh method adalah yang berada didalam kelas yang sama	Answer 3
+default
+Digunakan untuk memodularisasi program pemisah satu tugas menjadi satu unit tersendiri	Answer 4
+method
+Access modifier yang bisa digunakan oleh siapa saja baik kelas yang sama atau tidak	Answer 5
+public
